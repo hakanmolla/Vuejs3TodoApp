@@ -1,0 +1,40 @@
+{
+  "yapilacaklar": [
+    {
+      "id": 1,
+      "baslik": "Kitap Oku",
+      "icerik": "Harry Poterdan 30 sayfa okud",
+      "yapildi": false
+    },
+    {
+      "id": 2,
+      "baslik": "Dizi İzle",
+      "icerik": "Sherlock Holmes 2 Sezon 3. Bölümü izle",
+      "yapildi": true
+    },
+    {
+      "id": 3,
+      "baslik": "Alışveris Yap",
+      "icerik": "Sebze ve Meyce Al",
+      "yapildi": true
+    },
+    {
+      "id": 4,
+      "baslik": "Gezi Planla",
+      "icerik": "Çantanı Al Kafa Nereye Sen Oraya",
+      "yapildi": false
+    },
+    {
+      "baslik": "denememe",
+      "icerik": "test",
+      "yapildi": false,
+      "id": 5637
+    },
+    {
+      "baslik": "gggg",
+      "icerik": "güncelleme beni kardeşim",
+      "yapildi": false,
+      "id": 4257
+    }
+  ]
+}

@@ -8,12 +8,14 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "node-polyfill-webpack-plugin": "^2.0.1",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-router": "~5.0.0",
-    "@vue/cli-service": "~5.0.0"
+    "@vue/cli-service": "~5.0.0",
+    "path-browserify": "^1.0.1"
   }
 }
